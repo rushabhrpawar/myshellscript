@@ -1,2 +1,2 @@
-sudo echo "hello world" > /var/jenkins_home/mygit/first.txt
-sudo echo "hello from me" > /var/jenkins_home/mygit/second.txt
+ echo "hello world" > /var/jenkins_home/mygit/first.txt
+ echo "hello from me" > /var/jenkins_home/mygit/second.txt

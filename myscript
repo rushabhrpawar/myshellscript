@@ -1,1 +1,2 @@
-echo "hello world" > /mnt/first.txt
+sudo echo "hello world" > /mnt/first.txt
+sudo echo "hello from me" > /mnt/first.txt

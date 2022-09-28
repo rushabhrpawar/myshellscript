@@ -1,6 +1,4 @@
  echo "hello world" > /var/jenkins_home/mygit/first.txt
  echo "hello from me" > /var/jenkins_home/mygit/second.txt
 echo "hello from Rushabh" > /var/jenkins_home/third.txt
-date
-cal
-top
+

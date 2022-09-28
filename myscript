@@ -1,4 +1,5 @@
- echo "hello world" > /var/jenkins_home/mygit/first.txt
- echo "hello from me" > /var/jenkins_home/mygit/second.txt
-echo "hello from Rushabh" > /var/jenkins_home/third.txt
+ mkdir -p /var/lib/jenkins/mygit
+ echo "hello world" > /var/lib/jenkins/mygit/first.txt
+ echo "hello from me" > /var/lib/jenkins/mygit/second.txt
+echo "hello from Rushabh" > /var/lib/jenkins/mygit/third.txt
 

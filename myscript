@@ -3,4 +3,5 @@
  
  date
  echo "hello world" > /var/lib/jenkins/mygit/first.txt
+ echo "hello from rsp"
 

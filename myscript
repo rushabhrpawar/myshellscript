@@ -3,5 +3,4 @@
  date
  echo "hello world" > /var/lib/jenkins/mygit/first.txt
  echo "hello from me" > /var/lib/jenkins/mygit/second.txt
-echo "hello from Rushabh" > /var/lib/jenkins/mygit/third.txt
 

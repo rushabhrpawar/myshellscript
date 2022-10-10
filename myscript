@@ -1,7 +1,4 @@
  mkdir -p /var/lib/jenkins/mygit
  cal
- 
- date
- echo "hello world" > /var/lib/jenkins/mygit/first.txt
  echo "hello from rsp"
 

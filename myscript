@@ -1,4 +1,3 @@
- mkdir -p /var/lib/jenkins/mygit
  cal
- echo "hello from rsp"
-
+echo "hello from rsp"
+date

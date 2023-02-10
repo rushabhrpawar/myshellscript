@@ -1,4 +1,3 @@
  cal
 echo "hello from rsp"
 date
-mkdir /mnt/testingofnew

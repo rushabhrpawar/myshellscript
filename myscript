@@ -1,2 +1,3 @@
 cal
 echo "hello from rsp"
+mkdir /mnt/test
